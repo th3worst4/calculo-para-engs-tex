@@ -1,0 +1,24 @@
+\documentclass[a4paper, 10pt]{article}
+\input{mystyle.sty}
+\newcommand{\newspaceline}{\vspace{5pt}\\}
+\pagestyle{empty}
+\DeclareMathOperator{\rotg}{rot \,}
+\usepackage{txfonts}
+\usepackage{pdfpages}
+
+\pagestyle{empty}
+
+\begin{document}
+    \includepdf[page=-]{alreadymadepdf/tab-integrais.pdf}
+    \newpage
+    \input{resumo calc int/resumo3a.tex}
+    \newpage
+    \input{resumo edo/resumoedo.tex}
+    \newpage
+    \input{resumo series/resumoseries.tex}
+    \newpage
+    \includepdf[page=-]{alreadymadepdf/Tabela-series.pdf}
+    \newpage
+    \includepdf[page=-]{alreadymadepdf/Tabela-Laplace.pdf}
+\end{document}
+

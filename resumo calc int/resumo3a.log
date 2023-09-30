@@ -1,0 +1,3222 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.28)  29 SEP 2023 22:49
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex"
+(e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (preambulum.tex
+preambulum.tex:9: Undefined control sequence.
+l.9 \DeclareMathOperator
+                        {\sen}{sen}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+preambulum.tex:9: Undefined control sequence.
+l.9 \DeclareMathOperator{\sen
+                             }{sen}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+preambulum.tex:9: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \DeclareMathOperator{\sen}{s
+                                en}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:3: Undefined control sequence.
+l.3 \DeclareMathOperator
+                        {\rotg}{rot \,}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:3: Undefined control sequence.
+l.3 \DeclareMathOperator{\rotg
+                              }{rot \,}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+\symAMSa=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 164.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 591.
+LaTeX Info: Redefining \not on input line 1043.
+)
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 8.
+ (C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+) (C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box51
+) (resumo3a.aux)
+\openout1 = `resumo3a.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 8.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 8.
+ (C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 8.
+ (C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 8.
+ (C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 8.
+ (C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 8.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:22: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 	\begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:23: LaTeX Error: \mathit allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 	\mathit{C}
+                =[a,b]\times [c,d] = (x,y)\in\mathbb{R}^2: a\leq x\leq b, \,...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:23: Missing $ inserted.
+<inserted text> 
+                $
+l.23 	\mathit{C}=[a,b]\times
+                             [c,d] = (x,y)\in\mathbb{R}^2: a\leq x\leq b, \,...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 23.
+(C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 23.
+ (C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 23.
+ (C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 23.
+ (C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+)
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:24: Undefined control sequence.
+l.24 	f:\textit{C}\to\mathbb{R} \text
+                                     { é contínua}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 24.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:24: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.24 	f:\textit{C}\to\mathbb{R} \text{ é
+                                          contínua}\\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 24.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:24: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.24 	f:\textit{C}\to\mathbb{R} \text{ é contí
+                                                nua}\\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:24: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.24 	f:\textit{C}\to\mathbb{R} \text{ é contí
+                                                nua}\\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 24.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:26: Undefined control sequence.
+l.26 ...t_c^d\displaystyle\int_a^bf(x,y)dydx \text
+                                                  {\hspace{12pt}(Teorema de ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:27: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 	\end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:27: Missing } inserted.
+<inserted text> 
+                }
+l.27 	\end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:27: Missing $ inserted.
+<inserted text> 
+                $
+l.27 	\end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (122.43639pt too wide) in paragraph at lines 20--28
+\OML/txmi/m/it/12 f \OT1/txr/m/n/12 : [] \OMS/txsy/m/n/12 ! \U/txsyb/m/n/12 R[]$ 
+ []
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:32: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 	\begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:33: LaTeX Error: \mathit allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 	f:\mathit
+               {V}\to\mathbb{R}\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:33: Missing $ inserted.
+<inserted text> 
+                $
+l.33 	f:\mathit{V}\to
+                     \mathbb{R}\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:36: Undefined control sequence.
+<recently read> \text 
+                      
+l.36 	\text
+           {Onde $Dh$ é a matriz Jacobiana de $h$}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:36: Missing } inserted.
+<inserted text> 
+                }
+l.36 	\text{Onde $
+                  Dh$ é a matriz Jacobiana de $h$}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 36.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:36: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.36 	\text{Onde $Dh$ é
+                         a matriz Jacobiana de $h$}
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:36: Extra }, or forgotten $.
+<recently read> }
+                 
+l.36 ...xt{Onde $Dh$ é a matriz Jacobiana de $h$}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:37: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 	\end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37 	\end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:43: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 	\begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:44: Missing $ inserted.
+<inserted text> 
+                $
+l.44 	r\in
+          [0,+\infty), \,\theta\in[0,2\pi)\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:52: Undefined control sequence.
+l.52 	\tan\theta=\dfrac
+                       {y}{x}	
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:54: LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 	\det Dh(r,\theta)=\det\begin{bmatrix}
+                                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:55: Misplaced alignment tab character &.
+l.55 	x_r &
+            x_\theta \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:56: Misplaced alignment tab character &.
+l.56 	y_r &
+            y_\theta
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:57: LaTeX Error: \begin{document} ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 	\end{bmatrix}
+                   =\det\begin{bmatrix}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:57: LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 	\end{bmatrix}=\det\begin{bmatrix}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:58: Misplaced alignment tab character &.
+l.58 	\cos\theta &
+                   -r\sin\theta \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:59: Misplaced alignment tab character &.
+l.59 	\sin\theta &
+                   r\cos\theta
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:60: LaTeX Error: \begin{document} ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 	\end{bmatrix}
+                    = r
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:61: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 	\end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:61: Missing $ inserted.
+<inserted text> 
+                $
+l.61 	\end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:66: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 	\begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:67: LaTeX Error: \mathit allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 	\mathit
+             {C}=[a,b]\times [c,d] \times [r,s] = (x,y,z)\in\mathbb{R}^3: \b...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:67: Missing $ inserted.
+<inserted text> 
+                $
+l.67 	\mathit{C}=[a,b]\times
+                             [c,d] \times [r,s] = (x,y,z)\in\mathbb{R}^3: \b...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:69: Undefined control sequence.
+l.69 	f:\textit{C}\to\mathbb{R} \text
+                                     { é contínua}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 69.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:69: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.69 	f:\textit{C}\to\mathbb{R} \text{ é
+                                          contínua}\\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 69.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:69: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.69 	f:\textit{C}\to\mathbb{R} \text{ é contí
+                                                nua}\\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:69: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.69 	f:\textit{C}\to\mathbb{R} \text{ é contí
+                                                nua}\\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 69.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:72: Undefined control sequence.
+<recently read> \text 
+                      
+l.72 	\text
+           {Obs.: O Teorema de Fubini ainda pode ser utilizado.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:73: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 	\end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:73: Missing } inserted.
+<inserted text> 
+                }
+l.73 	\end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:73: Missing $ inserted.
+<inserted text> 
+                $
+l.73 	\end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (205.94836pt too wide) in paragraph at lines 64--74
+\OML/txmi/m/it/12 f \OT1/txr/m/n/12 : [] \OMS/txsy/m/n/12 ! \U/txsyb/m/n/12 R[]$ 
+ []
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:78: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 	\begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:79: Missing $ inserted.
+<inserted text> 
+                $
+l.79 	\rho
+          \in[0,+\infty), \,\theta\in[0,2\pi), \, \phi\in[0,\pi)\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:87: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 	\end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:87: Missing $ inserted.
+<inserted text> 
+                $
+l.87 	\end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[1
+
+{C:/Users/Caio/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:93: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.93 	\begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:94: Missing $ inserted.
+<inserted text> 
+                $
+l.94 	r\in
+          [0,+\infty), \,\theta\in[0,2\pi),
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:102: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 	\end{gather*}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:102: Missing $ inserted.
+<inserted text> 
+                $
+l.102 	\end{gather*}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:114: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114 	\begin{gather*}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:115: Missing $ inserted.
+<inserted text> 
+                $
+l.115 	\gamma
+             :[a,b]\to\mathbb{R}^n \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:121: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 	\end{gather*}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:121: Missing $ inserted.
+<inserted text> 
+                $
+l.121 	\end{gather*}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:126: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 	\begin{gather*}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:127: Missing $ inserted.
+<inserted text> 
+                $
+l.127 	U\subseteq
+                 \mathbb{R}^3 \text{aberto} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:127: Undefined control sequence.
+l.127 	U\subseteq\mathbb{R}^3 \text
+                                   {aberto} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:128: Undefined control sequence.
+l.128 	X:U\to \mathbb{R}^3 \text
+                                {campo vetorial em $U$} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:128: Missing } inserted.
+<inserted text> 
+                }
+l.128 ...to \mathbb{R}^3 \text{campo vetorial em $
+                                                  U$} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:128: Extra }, or forgotten $.
+<recently read> }
+                 
+l.128 ...\mathbb{R}^3 \text{campo vetorial em $U$}
+                                                   \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:131: Undefined control sequence.
+l.131 	\gamma:[a,b] \to U \text
+                               {curva parametrizada}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:135: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 	\end{gather*}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:135: Missing $ inserted.
+<inserted text> 
+                $
+l.135 	\end{gather*}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[2]
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Missing $ inserted.
+<inserted text> 
+                $
+l.158 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Undefined control sequence.
+<argument> ...er*} U\subseteq \mathbb {R}^n \text 
+                                                  {aberto, } f:U\to \mathbb ...
+l.158 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: LaTeX Error: \begin{minipage} on input line 158 ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Missing $ inserted.
+<inserted text> 
+                $
+l.158 }
+       \end{center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Missing $ inserted.
+<inserted text> 
+                $
+l.158 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Undefined control sequence.
+<argument> ...la f(x_1,\ldots ,x_n)=\left (\dfrac 
+                                                  {\partial f}{\partial x_1}...
+l.158 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Undefined control sequence.
+<argument> ..._1}(x_1,\ldots ,x_n),\ldots ,\dfrac 
+                                                  {\partial f}{\partial x_n}...
+l.158 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: LaTeX Error: \begin{minipage} on input line 158 ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Missing $ inserted.
+<inserted text> 
+                $
+l.158 }
+       \end{center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Missing $ inserted.
+<inserted text> 
+                $
+l.158 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Undefined control sequence.
+<recently read> \dfrac 
+                       
+l.158 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: LaTeX Error: \begin{minipage} on input line 158 ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.158 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:158: Missing $ inserted.
+<inserted text> 
+                $
+l.158 }
+       \end{center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 158--158
+[]\OT1/txr/m/n/12 Campos gra-di-entes(ou con-ser-va-tivos):  U$\OMS/txsy/m/n/12 ^^R
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 158--158
+\OT1/txr/m/n/12 Caso:  X(x$[]\OML/txmi/m/it/12 ; [] ; x[]\OT1/txr/m/n/12 ) = \OMS/txsy/m/n/12 r\OML/txmi/m/it/12 f\OT1/txr/m/n/12 (\OML/txmi/m/it/12 x[]; [] ; x[]\OT1/txr/m/n/12 ) =
+ []
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:161: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:162: Missing $ inserted.
+<inserted text> 
+                $
+l.162 X=\nabla
+               f \, , \, \gamma:[a,b]\to\mathbb{R}^n/
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:168: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.168 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:168: Missing $ inserted.
+<inserted text> 
+                $
+l.168 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Undefined control sequence.
+<argument> ...ther*} U \subset \mathbb {R}^3\text 
+                                                  { aberto limitado, com fro...
+l.194 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 }
+       \end{center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Extra }, or forgotten \endgroup.
+<argument> ...imitado, com fronteira $\partial U$}
+                                                   \\ \partial U \text { é ...
+l.194 }
+       \end{center}
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Undefined control sequence.
+<argument> ...a $\partial U$} \\ \partial U \text 
+                                                  { é uma curva fechada ori...
+l.194 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 194.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.194 }
+       \end{center}
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Undefined control sequence.
+<argument> ...ntada positivamente}\\ X=(P,Q)\text 
+                                                  { campo de vetores de clas...
+l.194 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Missing } inserted.
+<inserted text> 
+                }
+l.194 }
+       \end{center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Extra }, or forgotten \endgroup.
+<argument> ...de classe $C^1$ em U e $\partial U$}
+                                                  \\ \displaystyle \oint _{\...
+l.194 }
+       \end{center}
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Undefined control sequence.
+<argument> \left (\dfrac 
+                         {\partial P}{\partial y} - \dfrac {\partial Q}{\par...
+l.194 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Undefined control sequence.
+<argument> ...c {\partial P}{\partial y} - \dfrac 
+                                                  {\partial Q}{\partial x}\r...
+l.194 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Undefined control sequence.
+<argument> ...tial Q}{\partial x}\right )}_{\rotg 
+                                                  X} dA \end {gather*} \end ...
+l.194 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: LaTeX Error: \begin{minipage} on input line 194 ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 }
+       \end{center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+[]\OT1/txr/m/n/12 F[]ormula de Green:  U $\OMS/txsy/m/n/12 ^^Z
+ []
+
+[3]
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:201: LaTeX Error: Environment align* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 	\begin{align*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:202: Undefined control sequence.
+l.202 	\text
+            {Divergência:}&
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:202: Misplaced alignment tab character &.
+l.202 	\text{Divergência:}&
+                            
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 	\divg
+             X:U\to\mathbb{R}\hspace{6pt} / \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:204: Undefined control sequence.
+<argument> \divg 
+                 
+l.204 	\divg
+             X:U\to\mathbb{R}\hspace{6pt} / \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:204: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 	\divg X:U\to\mathbb{R}\hspace{6pt} / \\
+                                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:204: Missing $ inserted.
+<inserted text> 
+                $
+l.204 	\divg X:U\to\mathbb{R}\hspace{6pt} / \\
+                                              
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:204: Missing } inserted.
+<inserted text> 
+                }
+l.204 	\divg X:U\to\mathbb{R}\hspace{6pt} / \\
+                                              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:204: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.204 	\divg X:U\to\mathbb{R}\hspace{6pt} / \\
+                                              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:205: Undefined control sequence.
+<recently read> \divg 
+                      
+l.205 	\divg
+             X(x,y) = \dfrac{\partial P}{\partial x}(x,y) + \dfrac{\partial ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:205: Undefined control sequence.
+l.205 	\divg X(x,y) = \dfrac
+                            {\partial P}{\partial x}(x,y) + \dfrac{\partial ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:205: Missing $ inserted.
+<inserted text> 
+                $
+l.205 	\divg X(x,y) = \dfrac{\partial
+                                      P}{\partial x}(x,y) + \dfrac{\partial ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:205: Extra }, or forgotten $.
+l.205 	\divg X(x,y) = \dfrac{\partial P}
+                                        {\partial x}(x,y) + \dfrac{\partial ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:205: Undefined control sequence.
+l.205 ...rac{\partial P}{\partial x}(x,y) + \dfrac
+                                                  {\partial Q}{\partial y}(x,y)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:206: Missing $ inserted.
+<inserted text> 
+                $
+l.206 	\end{cases}
+                   \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:206: Missing } inserted.
+<inserted text> 
+                }
+l.206 	\end{cases}
+                   \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:207: Undefined control sequence.
+<recently read> \text 
+                      
+l.207 	\text
+            {Rotacional:}&
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:207: Misplaced alignment tab character &.
+l.207 	\text{Rotacional:}&
+                          
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:209: Missing $ inserted.
+<inserted text> 
+                $
+l.209 	\rotg
+             X:U\to\mathbb{R}\hspace{6pt} / \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:209: Undefined control sequence.
+<argument> \rotg 
+                 
+l.209 	\rotg
+             X:U\to\mathbb{R}\hspace{6pt} / \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:209: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.209 	\rotg X:U\to\mathbb{R}\hspace{6pt} / \\
+                                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:209: Missing $ inserted.
+<inserted text> 
+                $
+l.209 	\rotg X:U\to\mathbb{R}\hspace{6pt} / \\
+                                              
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:209: Missing } inserted.
+<inserted text> 
+                }
+l.209 	\rotg X:U\to\mathbb{R}\hspace{6pt} / \\
+                                              
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:209: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.209 	\rotg X:U\to\mathbb{R}\hspace{6pt} / \\
+                                              
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:210: Undefined control sequence.
+<recently read> \rotg 
+                      
+l.210 	\rotg
+             X = \dfrac{\partial Q}{\partial x}(x,y) - \dfrac{\partial P}{\p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:210: Undefined control sequence.
+l.210 	\rotg X = \dfrac
+                       {\partial Q}{\partial x}(x,y) - \dfrac{\partial P}{\p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:210: Missing $ inserted.
+<inserted text> 
+                $
+l.210 	\rotg X = \dfrac{\partial
+                                 Q}{\partial x}(x,y) - \dfrac{\partial P}{\p...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:210: Extra }, or forgotten $.
+l.210 	\rotg X = \dfrac{\partial Q}
+                                   {\partial x}(x,y) - \dfrac{\partial P}{\p...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:210: Undefined control sequence.
+l.210 ...rac{\partial Q}{\partial x}(x,y) - \dfrac
+                                                  {\partial P}{\partial y}(x,y)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:211: Missing $ inserted.
+<inserted text> 
+                $
+l.211 	\end{cases}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:211: Missing } inserted.
+<inserted text> 
+                }
+l.211 	\end{cases}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:212: LaTeX Error: \begin{center} on input line 200 ended by \end{align*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 	\end{align*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:218: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:219: Missing $ inserted.
+<inserted text> 
+                $
+l.219 U\subseteq
+                \mathbb{R}^2 \text{	aberto} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:219: Undefined control sequence.
+l.219 U\subseteq\mathbb{R}^2 \text
+                                  {	aberto} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:220: Undefined control sequence.
+l.220 X = (P,Q) \text
+                     {	campo vetorial em $U$} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:220: Missing } inserted.
+<inserted text> 
+                }
+l.220 X = (P,Q) \text{	campo vetorial em $
+                                          U$} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:220: Extra }, or forgotten $.
+<recently read> }
+                 
+l.220 X = (P,Q) \text{	campo vetorial em $U$}
+                                              \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:222: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222 \end{gather*}
+                   	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:222: Missing $ inserted.
+<inserted text> 
+                $
+l.222 \end{gather*}
+                   	
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.235 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Missing $ inserted.
+<inserted text> 
+                $
+l.235 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Undefined control sequence.
+<argument> ...ther*} U \subset \mathbb {R}^2\text 
+                                                  { aberto limitado, com fro...
+l.235 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Missing } inserted.
+<inserted text> 
+                }
+l.235 }
+       \end{center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Missing $ inserted.
+<inserted text> 
+                $
+l.235 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Extra }, or forgotten \endgroup.
+<argument> ...imitado, com fronteira $\partial U$}
+                                                   \\ \partial U \text { é ...
+l.235 }
+       \end{center}
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Missing $ inserted.
+<inserted text> 
+                $
+l.235 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Undefined control sequence.
+<argument> ...a $\partial U$} \\ \partial U \text 
+                                                  { é uma união finita de ...
+l.235 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 235.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.235 }
+       \end{center}
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 235.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.235 }
+       \end{center}
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Undefined control sequence.
+<argument> ...adas positivamentes}\\ X=(P,Q)\text 
+                                                  { campo de vetores de clas...
+l.235 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Missing } inserted.
+<inserted text> 
+                }
+l.235 }
+       \end{center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Missing $ inserted.
+<inserted text> 
+                $
+l.235 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Extra }, or forgotten \endgroup.
+<argument> ...de classe $C^1$ em U e $\partial U$}
+                                                  \\ \displaystyle \oint _{\...
+l.235 }
+       \end{center}
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Missing $ inserted.
+<inserted text> 
+                $
+l.235 }
+       \end{center}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Undefined control sequence.
+<argument> \left (\dfrac 
+                         {\partial P}{\partial y} - \dfrac {\partial Q}{\par...
+l.235 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Undefined control sequence.
+<argument> ...c {\partial P}{\partial y} - \dfrac 
+                                                  {\partial Q}{\partial x}\r...
+l.235 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Undefined control sequence.
+<argument> ...tial Q}{\partial x}\right )}_{\rotg 
+                                                  X} dA \end {gather*} \end ...
+l.235 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: LaTeX Error: \begin{minipage} on input line 235 ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.235 }
+       \end{center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:235: Missing $ inserted.
+<inserted text> 
+                $
+l.235 }
+       \end{center}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]\OT1/txr/m/n/12 F[]ormula de Green:  U $\OMS/txsy/m/n/12 ^^Z
+ []
+
+
+Overfull \hbox (77.13187pt too wide) in paragraph at lines 235--235
+\OML/txmi/m/it/12 @U[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:252: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.252 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:253: Missing $ inserted.
+<inserted text> 
+                $
+l.253 U \subseteq
+                  \mathbb{R}^2 \text{, } f:U\to\mathbb{R} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:253: Undefined control sequence.
+l.253 U \subseteq \mathbb{R}^2 \text
+                                    {, } f:U\to\mathbb{R} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:254: Undefined control sequence.
+l.254 ...,y,z) \in \mathbb{R}^3: (x,y) \in U \text
+                                                  {; } z \in f(x,y) \}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:255: LaTeX Error: \begin{enumerate} on input line 250 ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.255 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:255: Missing $ inserted.
+<inserted text> 
+                $
+l.255 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:257: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:258: Missing $ inserted.
+<inserted text> 
+                $
+l.258 V \subseteq
+                  \mathbb{R}^3 \text{, } f:V\to\mathbb{R}\text{, } c \in \ma...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:258: Undefined control sequence.
+l.258 V \subseteq \mathbb{R}^3 \text
+                                    {, } f:V\to\mathbb{R}\text{, } c \in \ma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:258: Undefined control sequence.
+l.258 ...thbb{R}^3 \text{, } f:V\to\mathbb{R}\text
+                                                  {, } c \in \mathbb{R} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:260: LaTeX Error: \begin{enumerate} on input line 250 ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:260: Missing $ inserted.
+<inserted text> 
+                $
+l.260 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[4]
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:268: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.268 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:269: Missing $ inserted.
+<inserted text> 
+                $
+l.269 \Phi
+           :U\to\mathbb{R}^3 \text{ de classe } C^1 \text{, injetora e tal q...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:269: Undefined control sequence.
+l.269 \Phi :U\to\mathbb{R}^3 \text
+                                  { de classe } C^1 \text{, injetora e tal q...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:269: Undefined control sequence.
+l.269 ...\mathbb{R}^3 \text{ de classe } C^1 \text
+                                                  {, injetora e tal que } D\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:269: Undefined control sequence.
+l.269 ...t{, injetora e tal que } D\Phi(u,v) \text
+                                                  { que também é injetora}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 269.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:269: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.269 ... e tal que } D\Phi(u,v) \text{ que també
+                                                  m é injetora} \\ \Phi(u,v...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 269.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:269: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.269 ...al que } D\Phi(u,v) \text{ que também é
+                                                   injetora} \\ \Phi(u,v)=(x...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:270: Undefined control sequence.
+l.270 \Im(\Phi) = S \text
+                         { que é uma suérfície}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 270.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:270: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.270 \Im(\Phi) = S \text{ que é
+                                  uma suérfície}\\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 270.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:270: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.270 \Im(\Phi) = S \text{ que é uma sué
+                                          rfície}\\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 270.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:270: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.270 \Im(\Phi) = S \text{ que é uma suérfí
+                                              cie}\\
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:270: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.270 \Im(\Phi) = S \text{ que é uma suérfí
+                                              cie}\\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 270.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:271: Undefined control sequence.
+l.271 D\Phi(u,v)=\left( \dfrac
+                              {\partial \Phi}{\partial u}, \dfrac{\partial \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:271: Undefined control sequence.
+l.271 ...\dfrac{\partial \Phi}{\partial u}, \dfrac
+                                                  {\partial \Phi}{\partial v...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:272: Missing { inserted.
+<to be read again> 
+                   $
+l.272 \hat
+          {i} & \hat{j} & \hat{k} \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:272: Missing } inserted.
+<inserted text> 
+                }
+l.272 \hat
+          {i} & \hat{j} & \hat{k} \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:272: Misplaced alignment tab character &.
+l.272 \hat{i} &
+                \hat{j} & \hat{k} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:272: Misplaced alignment tab character &.
+l.272 \hat{i} & \hat{j} &
+                          \hat{k} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:273: Misplaced alignment tab character &.
+l.273 x_u &
+            y_u & z_u \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:273: Misplaced alignment tab character &.
+l.273 x_u & y_u &
+                  z_u \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:274: Misplaced alignment tab character &.
+l.274 y_v &
+            y_v & z_v
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:274: Misplaced alignment tab character &.
+l.274 y_v & y_v &
+                  z_v
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:276: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.276 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:276: Missing } inserted.
+<inserted text> 
+                }
+l.276 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:276: Missing $ inserted.
+<inserted text> 
+                $
+l.276 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:277: Undefined control sequence.
+<recently read> \dfrac 
+                       
+l.277 ...or $\Phi$ é gerado pelos vetores $\dfrac
+                                                  {\partial \Phi}{\partial u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:277: Undefined control sequence.
+<recently read> \dfrac 
+                       
+l.277 ...rac{\partial \Phi}{\partial u}$ e $\dfrac
+                                                  {\partial \Phi}{\partial v...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:278: Undefined control sequence.
+<recently read> \dfrac 
+                       
+l.278 ...o então pelo produto vetorial de $\dfrac
+                                                  {\partial \Phi}{\partial u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:278: Undefined control sequence.
+<recently read> \dfrac 
+                       
+l.278 ...rac{\partial \Phi}{\partial u}$ e $\dfrac
+                                                  {\partial \Phi}{\partial v}$:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (218.0222pt too wide) in paragraph at lines 266--279
+[]\OT1/txr/m/n/14.4 Superf[]^^Pcies parametrizadas: $\OML/txmi/m/it/14.4 U \OMS/txsy/m/n/14.4 ^^R \U/txsyb/m/n/14.4 R[]$ \OT1/txr/m/n/14.4 aberto   $\OT1/txr/m/n/12 ^^H : \OML/txmi/m/it/12 U \OMS/txsy/m/n/12 ! \U/txsyb/m/n/12 R[][]\OML/txmi/m/it/12 C[][]D\OT1/txr/m/n/12 ^^H(\OML/txmi/m/it/12 u; v\OT1/txr/m/n/12 )[][] 
+ []
+
+
+Overfull \hbox (13.94984pt too wide) in paragraph at lines 266--279
+\OMS/txsy/m/n/12 =\OT1/txr/m/n/12 (^^H) = \OML/txmi/m/it/12 S[]$
+ []
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:280: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.280 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:281: Undefined control sequence.
+l.281 \text
+           {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:284: Missing $ inserted.
+<inserted text> 
+                $
+l.284 \end{minipage}}\hspace{10pt}\longrightarrow
+                                                  \hspace{10pt}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:285: Undefined control sequence.
+l.285 \zeta (u,v) = \dfrac
+                          {\dfrac{\partial \Phi}{\partial u} \times \dfrac{\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:285: Undefined control sequence.
+l.285 \zeta (u,v) = \dfrac{\dfrac
+                                 {\partial \Phi}{\partial u} \times \dfrac{\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:285: Undefined control sequence.
+l.285 ...{\partial \Phi}{\partial u} \times \dfrac
+                                                  {\partial \Phi}{\partial v...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:285: Undefined control sequence.
+l.285 ...c{\partial \Phi}{\partial v}}{\left\lVert
+                                                   \dfrac{\partial \Phi}{\pa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:285: Undefined control sequence.
+l.285 ...ial \Phi}{\partial v}}{\left\lVert \dfrac
+                                                  {\partial \Phi}{\partial u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:285: Missing delimiter (. inserted).
+<to be read again> 
+                   {
+l.285 ...al \Phi}{\partial v}}{\left\lVert \dfrac{
+                                                  \partial \Phi}{\partial u}...
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:285: Undefined control sequence.
+l.285 ...{\partial \Phi}{\partial u} \times \dfrac
+                                                  {\partial \Phi}{\partial v...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:285: Undefined control sequence.
+l.285 ...ac{\partial \Phi}{\partial v}\right\rVert
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:285: Missing delimiter (. inserted).
+<to be read again> 
+                   }
+l.285 ...c{\partial \Phi}{\partial v}\right\rVert}
+                                                  
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:286: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.286 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:286: Missing $ inserted.
+<inserted text> 
+                $
+l.286 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:289: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.289 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:290: Missing $ inserted.
+<inserted text> 
+                $
+l.290 A(s)=\displaystyle
+                        \iint_U \left\lVert \dfrac{\partial \Phi}{\partial u...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:290: Undefined control sequence.
+l.290 A(s)=\displaystyle\iint_U \left\lVert
+                                            \dfrac{\partial \Phi}{\partial u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:290: Undefined control sequence.
+l.290 A(s)=\displaystyle\iint_U \left\lVert \dfrac
+                                                  {\partial \Phi}{\partial u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:290: Missing delimiter (. inserted).
+<to be read again> 
+                   {
+l.290 ...=\displaystyle\iint_U \left\lVert \dfrac{
+                                                  \partial \Phi}{\partial u}...
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:290: Undefined control sequence.
+l.290 ...{\partial \Phi}{\partial u} \times \dfrac
+                                                  {\partial \Phi}{\partial v...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:290: Undefined control sequence.
+l.290 ...ac{\partial \Phi}{\partial v}\right\rVert
+                                                   \underbrace{dA}_{dudv}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:290: Missing delimiter (. inserted).
+<to be read again> 
+                   \mathop 
+l.290 ...}{\partial v}\right\rVert \underbrace{dA}
+                                                  _{dudv}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:291: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.291 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:291: Missing $ inserted.
+<inserted text> 
+                $
+l.291 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:296: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.296 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:297: Missing $ inserted.
+<inserted text> 
+                $
+l.297 U \subseteq
+                  \mathbb{R}^2 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:300: Undefined control sequence.
+l.300 ...playstyle\iint_U f(\Phi (u,v))\left\lVert
+                                                   \dfrac{\partial \Phi}{\pa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:300: Undefined control sequence.
+l.300 ...le\iint_U f(\Phi (u,v))\left\lVert \dfrac
+                                                  {\partial \Phi}{\partial u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:300: Missing delimiter (. inserted).
+<to be read again> 
+                   {
+l.300 ...e\iint_U f(\Phi (u,v))\left\lVert \dfrac{
+                                                  \partial \Phi}{\partial u}...
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:300: Undefined control sequence.
+l.300 ...tial \Phi}{\partial u}(u,v) \times \dfrac
+                                                  {\partial \Phi}{\partial v...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:300: Undefined control sequence.
+l.300 ...artial \Phi}{\partial v}(u,v)\right\rVert
+                                                   \underbrace{dA}_{dudv}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:300: Missing delimiter (. inserted).
+<to be read again> 
+                   \mathop 
+l.300 ...rtial v}(u,v)\right\rVert \underbrace{dA}
+                                                  _{dudv}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:301: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.301 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:301: Missing $ inserted.
+<inserted text> 
+                $
+l.301 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:304: Undefined control sequence.
+<argument> \text 
+                 {superfícies orientáveis}
+l.304 ...erbrace{\text{superfícies orientáveis}}
+                                                  _{\text{(admite um campo n...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 304.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:304: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.304 ...erbrace{\text{superfícies orientáveis}}
+                                                  _{\text{(admite um campo n...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:304: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.304 ...erbrace{\text{superfícies orientáveis}}
+                                                  _{\text{(admite um campo n...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \i invalid in math mode on input line 304.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 304.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:304: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.304 ...erbrace{\text{superfícies orientáveis}}
+                                                  _{\text{(admite um campo n...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:304: Missing } inserted.
+<inserted text> 
+                }
+l.304 ...erbrace{\text{superfícies orientáveis}}
+                                                  _{\text{(admite um campo n...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:304: Undefined control sequence.
+l.304 ...{\text{superfícies orientáveis}}_{\text
+                                                  {(admite um campo normal u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 304.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:304: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.304 ...s}}_{\text{(admite um campo normal unitá
+                                                  rio)}}$
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:307: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.307 \begin{gather*}
+                     \text{
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:307: Undefined control sequence.
+l.307 \begin{gather*}\text
+                          {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:309: Undefined control sequence.
+<recently read> \text 
+                      
+l.309 \text
+           {O fluxo de $X$ através de $S$ é dado por}: \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:310: Missing $ inserted.
+<inserted text> 
+                $
+l.310 \displaystyle
+                   \iint_S\langle X,\zeta \rangle dS = \displaystyle\iint_U ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:310: Undefined control sequence.
+l.310 ...nt_U \langle X(\Phi(u,v), \pm \left\lVert
+                                                   \dfrac{\partial \Phi}{\pa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:310: Undefined control sequence.
+l.310 ...angle X(\Phi(u,v), \pm \left\lVert \dfrac
+                                                  {\partial \Phi}{\partial u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:310: Missing delimiter (. inserted).
+<to be read again> 
+                   {
+l.310 ...ngle X(\Phi(u,v), \pm \left\lVert \dfrac{
+                                                  \partial \Phi}{\partial u}...
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:310: Undefined control sequence.
+l.310 ...tial \Phi}{\partial u}(u,v) \times \dfrac
+                                                  {\partial \Phi}{\partial v...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:310: Undefined control sequence.
+l.310 ...artial \Phi}{\partial v}(u,v)\right\rVert
+                                                   \rangle \underbrace{dA}_{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:311: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:311: Missing $ inserted.
+<inserted text> 
+                $
+l.311 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[5]
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:320: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:321: Missing $ inserted.
+<inserted text> 
+                $
+l.321 \displaystyle
+                   \oiint_{\partial\Omega} \langle X, \zeta \rangle dS = \di...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:321: Undefined control sequence.
+l.321 ...e dS = \displaystyle\iiint_{\Omega} \divg
+                                                   X dV
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:322: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.322 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:322: Missing $ inserted.
+<inserted text> 
+                $
+l.322 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:324: Undefined control sequence.
+l.324 ...gin{cases} U \subseteq \mathbb{R}^3 \text
+                                                  { aberto} \\ X=(P,Q,R) \te...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:324: Undefined control sequence.
+l.324 ...bb{R}^3 \text{ aberto} \\ X=(P,Q,R) \text
+                                                  { campo em } U\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:325: Undefined control sequence.
+<recently read> \divg 
+                      
+l.325 f:U\to\mathbb{R}\\ \divg
+                               X = \dfrac{\partial P}{\partial x} +\dfrac{\p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:325: Undefined control sequence.
+l.325 f:U\to\mathbb{R}\\ \divg X = \dfrac
+                                         {\partial P}{\partial x} +\dfrac{\p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:325: Undefined control sequence.
+l.325 ... = \dfrac{\partial P}{\partial x} +\dfrac
+                                                  {\partial Q}{\partial y}+\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:325: Undefined control sequence.
+l.325 ...x} +\dfrac{\partial Q}{\partial y}+\dfrac
+                                                  {\partial R}{\partial z}\e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:336: Undefined control sequence.
+<recently read> \rotg 
+                      
+l.336 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:336: Undefined control sequence.
+<recently read> \divg 
+                      
+l.336 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:336: Undefined control sequence.
+<argument> ...ente qualquer, então: $\divg \rotg 
+                                                  X =0$ \end {enumerate} \en...
+l.336 }
+       \end{center}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:345: LaTeX Error: Environment gather* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.345 \begin{gather*}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:346: Missing $ inserted.
+<inserted text> 
+                $
+l.346 \displaystyle
+                   \oint_{\partial S} X d\vec{r} = \displaystyle\iint_S \lan...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:346: Undefined control sequence.
+l.346 ...c{r} = \displaystyle\iint_S \langle \rotg
+                                                   X, \zeta \rangle dS
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:347: LaTeX Error: \begin{document} ended by \end{gather*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.347 \end{gather*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo calc int/resumo3a.tex:347: Missing $ inserted.
+<inserted text> 
+                $
+l.347 \end{gather*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (13.97319pt too wide) in paragraph at lines 339--348
+[]  $[]$  $[][] \OML/txmi/m/it/12 Xd[] \OT1/txr/m/n/12 =
+ []
+
+[6] (resumo3a.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1765 strings out of 475550
+ 24819 string characters out of 5763005
+ 1927238 words of memory out of 5000000
+ 22998 multiletter control sequences out of 15000+600000
+ 595984 words of font info for 130 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,13n,50p,356b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txex.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txexa.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsyb.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on resumo3a.pdf (6 pages, 82147 bytes).
+PDF statistics:
+ 67 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

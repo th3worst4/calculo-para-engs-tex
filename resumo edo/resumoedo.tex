@@ -1,0 +1,97 @@
+	\begin{center}
+		\begin{Huge}
+			Métodos de Resolução de EDOs
+		\end{Huge}\\		
+		\hrulefill \vspace{12pt} \\	
+		\begin{Large}
+			EDOs de primeira ordem
+		\end{Large}
+	\end{center}				
+	\begin{table}[H]
+		\begin{center}
+		\begin{TAB}(r,0.1cm,1cm)[5pt]{|c|c|c|}{|c|c|}
+ 			Variáveis separáveis & $y'=f(x)g(y)$ & $\displaystyle\int \dfrac{1}{g(y)}dy=\displaystyle\int f(x)dx$ \\
+ 			Fator Integrante & $y'+P(x)y=Q(x)$ & $I(x)y(x)=\displaystyle\int I(x)Q(x) dx$, onde $I=\exp{\left(\displaystyle\int P(x)dx\right)}$
+		\end{TAB}
+		\end{center}
+	\end{table}
+	\begin{center}		
+		\hrulefill \vspace{12pt} \\	
+		\begin{Large}
+			EDOs exatas
+		\end{Large}
+	\end{center}
+		\begin{table}[H]
+		\begin{center}
+		\begin{TAB}(r,0.1cm,1cm)[5pt]{|c|c|c|}{|ccc|cc|}
+ 			Caso geral & $M(x,y)dx+N(x,y)dy = 0$ & caso $\dfrac{\partial N}{\partial x} = \dfrac{\partial M}{\partial y}$ \\ 			& & temos $\dfrac{\partial G}{\partial x} = M(x,y)$ e $\dfrac{\partial G}{\partial y} = N(x,y)$,\\
+ 			& &  e $G(x,y)=K$ é solução. \\
+ 			Das não exatas às exatas & $IM(x,y)dx + IN(x,y)dy = 0$ & onde $I=I(x)$ ou $I=(y)$ e \\
+ 			& & $\dfrac{\partial (IM)}{\partial y} = \dfrac{\partial (IN)}{\partial x}$
+		\end{TAB}
+		\end{center}
+	\end{table}
+	\begin{center}		
+		\hrulefill \vspace{12pt} \\	
+		\begin{Large}
+			EDOs homogêneas
+		\end{Large}
+	\end{center}
+		\begin{table}[H]
+		\begin{center}
+		\begin{TAB}(r,0.1cm,0.25cm)[2pt]{|c|c|c|}{|cc|c|}
+ 			Mudança de variável & $y'=F\left(\dfrac{y}{x}\right)$ & $y=u \cdot x$\\
+ 			& &  $y'=u'x+u \rightarrow u'x=F(u)-u$ \\
+ 			Como saber se é homogênea? & $\begin{cases} x \rightarrow kt \\ y \rightarrow kt \end{cases}$ & $y'=f(x,y)=f(kx,ky)$
+		\end{TAB}
+		\end{center}
+	\end{table}
+	\newpage
+	\begin{center}		
+		\hrulefill \vspace{12pt} \\	
+		\begin{Large}
+			EDOs de ordem $n=2$
+		\end{Large}
+	\end{center}
+	\hspace{2cm}Obs.:\begin{minipage}[t]{\textwidth}
+		Soma de soluções também é solução, portanto $y_1$ e $y_2$ são soluções individuais. \\
+		$W(f,g)$ é o Wronskiano de $f$ e $g$.
+		\end{minipage}		 
+		\begin{table}[H]
+		\begin{center}
+		\begin{TAB}(r,0.01cm,0.02cm)[0.5pt]{|c|c|c|}{|c|c|c|c|c|c|}
+ 			\makecell{Coeficientes constantes\\(Caso homogêneo)} & $a_0y+a_1y'+a_2y''=0$ & \makecell{Equação característica: $a_0+a_1\alpha+a_2\alpha^2=0$\\$y=y_1+y_2$\\
+ 			Se $\begin{cases} \Delta > 0 \rightarrow y(x)=C_1e^{\lambda_1x}+C_2e^{\lambda_2x} \\ 
+ 			\Delta = 0 \rightarrow y(x)=C_1xe^{\lambda x} + C_2e^{\lambda x} \\ \Delta<0 \rightarrow y(x)=C_1e^{ax}\cos(bx) + C_2e^{ax}\sin(bx) \end{cases}$\\
+ 			Onde $\lambda$ é raiz real e $a\pm bi$ são raizes complexas} \\
+ 			Caso não homogêneo & $a_0y+a_1y'+a_2y''=g(x)$ &
+ 			\makecell{$y=y_h+y_p$\\Onde $y_h$ é a solução da homogênea e\\ $y_p$ é uma solução particular}\\
+ 			\makecell{Método de variação de parâmetros \\ (Encontrar soluções particulares)} & $y_p=C_1y_1+C_2y_2$ & \makecell{$C_1 = \displaystyle\int\dfrac{-y_2 \cdot g(x)}{a_2 \cdot W(y_1,y_2)}dx$ \\$C_2 = \displaystyle\int\dfrac{y_1\cdot g(x)}{a_2\cdot W(y_1,y_2)}dx$} \\ EDO de Cauchy-Euler & $ax^2y''+bxy'+cy=0$ & \makecell{Eq. inicial: $am(m-1)+bm+c=0$\\Se $\begin{cases} \Delta > 0 \rightarrow y(x)=C_1x^{m_1}+C_2x^{m_2} \\ 
+ 			\Delta = 0 \rightarrow y(x)=C_1x^m+C_2\ln(x)\cdot x^m \\ \Delta<0 \rightarrow y(x)=x^{\alpha}(C_1\cos(\beta\ln x)+C_2\sin(\beta\ln x))\end{cases}$ \\ Onde $m$ é raiz real e $\alpha\pm\beta i$ é raiz complexa} \\
+ 			EDO de Bessel & \makecell{$x^2y''+xy'+(\lambda^2x^2-p^2)=0$\\Com $p\in\mathbb{R}$ constante} & \makecell{Se$\begin{cases}p\in\mathbb{Z} \rightarrow y(x)=C_1J_p(x)+Y_p(x)\\
+ 			p\not\in\mathbb{Z} \rightarrow y(x)=C_1J_p(x)+C_2J_{-p}(x) \end{cases}$\\ Onde $J_p$ é a função de Bessel de 1ª espécie de ordem $p$\\e $Y_p$ é a função de Bessel de 2ª espécie de ordem $p$\\Nota: $\lim_{x\to0^+}Y_p(x)=-\infty$}\\
+ 			EDO de Legendre & \makecell{$p\in\mathbb{R}$ constante\\ com $y(x):(-1,1)\to\mathbb{R}$\\$(1-x^2)y''+2xy'+p(p+1)y=0$} & \makecell{Se $p=n\in\mathbb{N}$\\$y(x)=C_1P_n(x)+C_2Q(x)$\\Onde $P_n$ é a função de Legendre de 1ª espécie de ordem $n$\\e $Q_p$ é a função de Legendre de 2ª espécie de ordem $n$\\Nota: $\lim_{x\to1^-}Q_n(x)=+\infty$}
+		\end{TAB}
+		\end{center}
+	\end{table}	
+	
+	\hspace{2cm}Lembretes: \begin{minipage}[t]{\textwidth}
+$e^{i\theta}=\cos(\theta)+i\sin(\theta)$ \\ $\sin(\theta)=\dfrac{e^{i\theta}-e^{-i\theta}}{2i}=\dfrac{\sinh(i\theta)}{i}$ \; e \;$\cos(\theta)=\dfrac{e^{i\theta}+e^{-i\theta}}{2}=\cosh(i\theta)$ \\ A redução de ordem é um algoritmo capaz de reduzir a ordem de EDOs, porém não será detalhado.
+		\end{minipage}	
+	
+	\newpage
+	\begin{center}		
+	\hrulefill \vspace{12pt} \\	
+	\begin{Large}
+		Outros métodos de resolução
+	\end{Large}
+	\end{center}
+
+	\begin{table}[H]
+		\begin{center}
+		\begin{TAB}(r,0.1cm,0.25cm)[2pt]{|c|c|c|}{|c|c|}			
+ 			Séries de potências & $\displaystyle\sum_{k=0}^if_i(x)y^{(i)}=g(x)$ & $y(x)=\displaystyle\sum_{n=0}^\infty C_nx^n$ 
+\\ Transformada de Laplace & $\displaystyle\sum_{k=0}^if_i(x)y^{(i)}=g(x)$ com PVI & Aplicar $\mathcal{L} \rightarrow$ Resolver Eq. Algébrica $\rightarrow$ Aplicar $\mathcal{L}^{-1}$
+		\end{TAB}
+		\end{center}
+	\end{table}

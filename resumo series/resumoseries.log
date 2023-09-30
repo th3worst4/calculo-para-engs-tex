@@ -1,0 +1,1099 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.28)  29 SEP 2023 22:55
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex"
+(e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(C:\Users\Caio\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count185
+\l__pdf_internal_box=\box51
+) (resumoseries.aux)
+\openout1 = `resumoseries.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:4: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{document}
+                    	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:6: LaTeX Error: Environment Huge undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 		\begin{Huge}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:8: LaTeX Error: \begin{center} on input line 5 ended by \end{Huge}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 		\end{Huge}
+                \\		
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 13.
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:13: Undefined control sequence.
+<recently read> \summation 
+                           
+l.13 Seja $\summation
+                     _n a_n$ uma série. Se $\limit_{n \to \infty} a_n \ne 0...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:13: Undefined control sequence.
+<recently read> \limit 
+                       
+l.13 ... $\summation_n a_n$ uma série. Se $\limit
+                                                  _{n \to \infty} a_n \ne 0$...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:13: Undefined control sequence.
+<recently read> \summation 
+                           
+l.13 ...\to \infty} a_n \ne 0$, então $\summation
+                                                  _n a_n$ é divergente. \ne...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:13: Undefined control sequence.
+l.13 ...mation_n a_n$ é divergente. \newspaceline
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:16: Undefined control sequence.
+<recently read> \summation 
+                           
+l.16 Seja $\summation
+                     _n a_n$ uma série e seja $m$ um natural tal que $a_n\g...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:18: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	\item �
+             � contínua;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:18: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	\item �
+             � contínua;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:18: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	\item �
+             � contínua;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:19: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 	\item d
+             escrescente;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:19: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 	\item d
+             escrescente;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:19: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 	\item d
+             escrescente;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:20: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 	\item n
+             ão negativa;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:20: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 	\item n
+             ão negativa;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:20: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 	\item n
+             ão negativa;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:21: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	\item e
+              tal que $f(n)=a_n$ para todo natural $n\ge m$.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:21: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	\item e
+              tal que $f(n)=a_n$ para todo natural $n\ge m$.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:21: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 	\item e
+              tal que $f(n)=a_n$ para todo natural $n\ge m$.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:22: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \end{itemize}
+                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:23: Undefined control sequence.
+<recently read> \summation 
+                           
+l.23 Temos que a série $\summation
+                                   _n a_n$ é convergente se e somente se a ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:23: Undefined control sequence.
+<recently read> \integral 
+                          
+l.23 ...omente se a integral imprópria $\integral
+                                                  _m^{+\infty}f(x)dx$ é con...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:23: Undefined control sequence.
+l.23 ...nfty}f(x)dx$ é convergente. \newspaceline
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:26: Undefined control sequence.
+<recently read> \summation 
+                           
+l.26 Sejam $\summation
+                      _n a_n$ e $\summation_n b_n$ duas séries e seja $m$ u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:26: Undefined control sequence.
+<recently read> \summation 
+                           
+l.26 Sejam $\summation_n a_n$ e $\summation
+                                           _n b_n$ duas séries e seja $m$ u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:28: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 	\item  S
+              e $\summation_n b_n$ é convergente, então a série $\summati...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:28: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 	\item  S
+              e $\summation_n b_n$ é convergente, então a série $\summati...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:28: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 	\item  S
+              e $\summation_n b_n$ é convergente, então a série $\summati...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:28: Undefined control sequence.
+<recently read> \summation 
+                           
+l.28 	\item  Se $\summation
+                           _n b_n$ é convergente, então a série $\summati...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:28: Undefined control sequence.
+<recently read> \summation 
+                           
+l.28 ...� convergente, então a série $\summation
+                                                  _n a_n$ é convergente.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:29: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 	\item S
+             e $\summation_n a_n$ é divergente, então a série $\summation...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:29: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 	\item S
+             e $\summation_n a_n$ é divergente, então a série $\summation...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:29: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 	\item S
+             e $\summation_n a_n$ é divergente, então a série $\summation...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:29: Undefined control sequence.
+<recently read> \summation 
+                           
+l.29 	\item Se $\summation
+                          _n a_n$ é divergente, então a série $\summation...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:29: Undefined control sequence.
+<recently read> \summation 
+                           
+l.29 ...é divergente, então a série $\summation
+                                                  _n b_n$ é divergente.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:30: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:34: Undefined control sequence.
+<recently read> \summation 
+                           
+l.34 Sejam $\summation
+                      _n a_n$ e $\summation_n b_n$ duas séries e seja $m$ u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:34: Undefined control sequence.
+<recently read> \summation 
+                           
+l.34 Sejam $\summation_n a_n$ e $\summation
+                                           _n b_n$ duas séries e seja $m$ u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:35: Undefined control sequence.
+l.35 $$L = \limit
+                 _{n\to\infty}\dfrac{a_n}{b_n}$$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:35: Undefined control sequence.
+l.35 $$L = \limit_{n\to\infty}\dfrac
+                                    {a_n}{b_n}$$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:38: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 	\item S
+             e $L\ne 0$ então $\summation_n a_n$ converge se e somente se $...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:38: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 	\item S
+             e $L\ne 0$ então $\summation_n a_n$ converge se e somente se $...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:38: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 	\item S
+             e $L\ne 0$ então $\summation_n a_n$ converge se e somente se $...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:38: Undefined control sequence.
+<recently read> \summation 
+                           
+l.38 	\item Se $L\ne 0$ então $\summation
+                                          _n a_n$ converge se e somente se $...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:38: Undefined control sequence.
+<recently read> \summation 
+                           
+l.38 ... a_n$ converge se e somente se $\summation
+                                                  _n b_n$ converge.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:39: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 	\item S
+             e $L=0$ e $\summation_n b_n$ converge, então $\summation_n a_n...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:39: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 	\item S
+             e $L=0$ e $\summation_n b_n$ converge, então $\summation_n a_n...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:39: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 	\item S
+             e $L=0$ e $\summation_n b_n$ converge, então $\summation_n a_n...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:39: Undefined control sequence.
+<recently read> \summation 
+                           
+l.39 	\item Se $L=0$ e $\summation
+                                  _n b_n$ converge, então $\summation_n a_n...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:39: Undefined control sequence.
+<recently read> \summation 
+                           
+l.39 ...mation_n b_n$ converge, então $\summation
+                                                  _n a_n$ converge.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:40: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:41: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/Users/Caio/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:44: Undefined control sequence.
+<recently read> \summation 
+                           
+l.44 Seja $\summation
+                     _n a_n$ uma série alternada com $\left| a_n \right| = ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:46: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 	\item $
+             b_{n+1} \le b_n$ para todo $n\ge m$;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:46: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 	\item $
+             b_{n+1} \le b_n$ para todo $n\ge m$;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:46: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 	\item $
+             b_{n+1} \le b_n$ para todo $n\ge m$;
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:47: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 	\item e
+              $\limit_{n \to \infty} b_n = 0$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:47: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 	\item e
+              $\limit_{n \to \infty} b_n = 0$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:47: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 	\item e
+              $\limit_{n \to \infty} b_n = 0$
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:47: Undefined control sequence.
+<recently read> \limit 
+                       
+l.47 	\item e $\limit
+                     _{n \to \infty} b_n = 0$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:48: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:49: Undefined control sequence.
+l.49 para algum $m \in \mathbb
+                              {N}$.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:50: Undefined control sequence.
+l.50 \newspaceline
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:53: Undefined control sequence.
+<recently read> \summation 
+                           
+l.53 Se a série $\summation
+                            _{n=1}^{\infty} \left| a_n \right|$ é convergen...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:53: Undefined control sequence.
+<recently read> \summation 
+                           
+l.53 ...right|$ é convergente, então $\summation
+                                                  _{n=1}^{\infty} a_n$ é co...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:55: Undefined control sequence.
+l.55 \newspaceline
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:58: Undefined control sequence.
+<recently read> \summation 
+                           
+l.58 Seja $\summation
+                     _{n=1}^{\infty} a_n$ uma série com todos os termos nã...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:58: Undefined control sequence.
+l.58 ...odos os termos não nulos e seja $r=\limit
+                                                  _{n \to\infty} \dfrac{\lef...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:58: Undefined control sequence.
+l.58 ...ulos e seja $r=\limit_{n \to\infty} \dfrac
+                                                  {\left| a_{n+1} \right|}{\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:60: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 	\item S
+             e $r<1$, a série $\summation_{n=1}^{\infty} a_n$ converge abso...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:60: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 	\item S
+             e $r<1$, a série $\summation_{n=1}^{\infty} a_n$ converge abso...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:60: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 	\item S
+             e $r<1$, a série $\summation_{n=1}^{\infty} a_n$ converge abso...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:60: Undefined control sequence.
+<recently read> \summation 
+                           
+l.60 	\item Se $r<1$, a série $\summation
+                                          _{n=1}^{\infty} a_n$ converge abso...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:61: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 	\item S
+             e $r>1$ (incluindo $r\to+\infty$), a série $\summation_{n=1}^\...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:61: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 	\item S
+             e $r>1$ (incluindo $r\to+\infty$), a série $\summation_{n=1}^\...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:61: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 	\item S
+             e $r>1$ (incluindo $r\to+\infty$), a série $\summation_{n=1}^\...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:61: Undefined control sequence.
+<recently read> \summation 
+                           
+l.61 ...uindo $r\to+\infty$), a série $\summation
+                                                  _{n=1}^\infty a_n$ diverge.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:62: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:66: Undefined control sequence.
+<recently read> \summation 
+                           
+l.66 Sejam $\summation
+                      _{n=1}^\infty a_n$ uma série e $r=\limit_{n \to\infty...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:66: Undefined control sequence.
+l.66 ...n_{n=1}^\infty a_n$ uma série e $r=\limit
+                                                  _{n \to\infty}\sqrt[n]{\le...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:68: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 	\item S
+             e $r<1$, a série $\summation_{n=1}^\infty a_n$ converge absolu...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:68: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 	\item S
+             e $r<1$, a série $\summation_{n=1}^\infty a_n$ converge absolu...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:68: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 	\item S
+             e $r<1$, a série $\summation_{n=1}^\infty a_n$ converge absolu...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:68: Undefined control sequence.
+<recently read> \summation 
+                           
+l.68 	\item Se $r<1$, a série $\summation
+                                          _{n=1}^\infty a_n$ converge absolu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:69: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 	\item S
+             e $r>1$ (incluindo $r\to+\infty$), a série $\summation_{n=1}^\...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:69: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 	\item S
+             e $r>1$ (incluindo $r\to+\infty$), a série $\summation_{n=1}^\...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:69: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 	\item S
+             e $r>1$ (incluindo $r\to+\infty$), a série $\summation_{n=1}^\...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:69: Undefined control sequence.
+<recently read> \summation 
+                           
+l.69 ...uindo $r\to+\infty$), a série $\summation
+                                                  _{n=1}^\infty a_n$ diverge.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:70: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Users/CaioHD/Documents/GitHub/calculo-para-engs-tex/resumo series/resumoseries.tex:72: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2] (resumoseries.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 249 strings out of 475550
+ 6766 string characters out of 5763005
+ 1923238 words of memory out of 5000000
+ 21558 multiletter control sequences out of 15000+600000
+ 558377 words of font info for 37 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,6n,50p,289b,76s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Caio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on resumoseries.pdf (2 pages, 101006 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

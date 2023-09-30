@@ -1,0 +1,336 @@
+		\begin{center}
+		\begin{Huge}
+			Resumo Cálculo Integral de Múltiplas Variáveis
+		\end{Huge}\\		
+		\hrulefill \vspace{12pt} \\	
+		\begin{Large}
+			Integrais Duplas e Triplas
+		\end{Large}
+	\end{center}
+	
+	\begin{large}
+	Definição de Integral Dupla e Teorema de Fubini:
+	\end{large}		
+	\begin{gather*}
+	\mathit{C}=[a,b]\times [c,d] = (x,y)\in\mathbb{R}^2: a\leq x\leq b, \,c \leq y\leq d	\\
+	f:\textit{C}\to\mathbb{R} \text{ é contínua}\\
+	I=\displaystyle\iint_{\mathit{C}}f(x,y)dA=\displaystyle\int_a^b\displaystyle\int_c^df(x,y)dxdy=
+	\displaystyle\int_c^d\displaystyle\int_a^bf(x,y)dydx \text{\hspace{12pt}(Teorema de Fubini)}
+	\end{gather*}
+	
+	\begin{large}
+	Mudança de Variáveis:
+	\end{large}
+	\begin{gather*}
+	f:\mathit{V}\to\mathbb{R}\\
+	f\circ h: \mathit{U} \to \mathbb{R}\\
+	I=\displaystyle\iint_{\mathit{V}}f(x,y)dxdy=\displaystyle\iint_{\mathit{U}}f(h(u,v))\;|\det Dh(u,v)|dudv \\
+	\text{Onde $Dh$ é a matriz Jacobiana de $h$}
+	\end{gather*}
+	
+	\begin{large}
+	
+	Coordenadas Polares:
+	\end{large}
+	\begin{gather*}
+	r\in[0,+\infty), \,\theta\in[0,2\pi)\\
+	h(r,\theta) = (x(r,\theta),y(r,\theta))=(r\cos\theta,r\sin\theta)\\
+	\begin{cases}
+	x=r\cos\theta \\
+	y=r\sin\theta	
+	\end{cases}\hspace{12pt}
+	\begin{cases}
+	r=\sqrt{x^2+y^2}\\
+	\tan\theta=\dfrac{y}{x}	
+	\end{cases}\\
+	\det Dh(r,\theta)=\det\begin{bmatrix}
+	x_r & x_\theta \\
+	y_r & y_\theta
+	\end{bmatrix}=\det\begin{bmatrix}
+	\cos\theta & -r\sin\theta \\
+	\sin\theta & r\cos\theta
+	\end{bmatrix} = r
+	\end{gather*}
+	
+	\begin{large}
+	Definição de Integral Tripla e Teorema de Fubini:
+	\end{large}		
+	\begin{gather*}
+	\mathit{C}=[a,b]\times [c,d] \times [r,s] = (x,y,z)\in\mathbb{R}^3: \begin{cases} a\leq x\leq b, \\ c \leq y\leq d, \\ r\leq z\leq s
+	\end{cases}	\\
+	f:\textit{C}\to\mathbb{R} \text{ é contínua}\\
+	I=\displaystyle\iiint_{\mathit{C}}f(x,y,z)dV=\displaystyle\int_a^b\displaystyle\int_c^d
+	\displaystyle\int_r^sf(x,y,z)dxdydz \\
+	\text{Obs.: O Teorema de Fubini ainda pode ser utilizado.}
+	\end{gather*}
+
+	\begin{large}
+	Coordenadas Esféricas:
+	\end{large}
+	\begin{gather*}
+	\rho\in[0,+\infty), \,\theta\in[0,2\pi), \, \phi\in[0,\pi)\\
+	r=\rho\sin\phi \rightarrow	
+	\begin{cases}
+	x=\rho\cos\theta\sin\theta \\
+	y=\rho\sin\theta\cos\phi	
+	\end{cases}\hspace{12pt}
+	z=\rho\cos\phi \hspace{12pt} \rho=\sqrt{x^2+y^2+z^2}\\
+	\det Dh(\rho,\theta\phi)= \rho^2\sin\phi
+	\end{gather*}
+	
+	
+	\begin{large}
+	Coordenadas Cilíndricas:
+	\end{large}
+	\begin{gather*}
+	r\in[0,+\infty), \,\theta\in[0,2\pi), 
+	\, z\in(-\infty,+\infty)\\
+	\begin{cases}
+	x=r\cos\theta \\
+	y=r\sin\theta	
+	\end{cases}\hspace{12pt}
+	r=\sqrt{x^2+y^2}\\
+	\det Dh(r,\theta,z) = r
+	\end{gather*}
+	
+	\newpage
+	\begin{center}		
+		\begin{Large}
+			Curvas Parametrizadas(em $\mathbb{R}^2$ ou $\mathbb{R}^3$)
+		\end{Large}
+	\end{center}
+	
+	\begin{large}
+	Integrais de Linha de Funções Reais:
+	\end{large}
+	\begin{gather*}
+	\gamma:[a,b]\to\mathbb{R}^n \\
+	\gamma(t)=(x_1(t),x_2(t),\ldots,x_n(t)), \hspace{12pt} \gamma'(t)=(x_1'(t),x_2'(t),\ldots,x_n'(t))\\
+	f:\mathbb{R}^n\to\mathbb{R} \\
+	f\circ \gamma (t) = f(\gamma (t))\\
+	\displaystyle\int_\gamma f ds = \displaystyle\int_a^b f(\gamma (t))\|\gamma '(t)\| dt\\
+	\|\gamma'(t)\|=\sqrt{\displaystyle\sum_{i=1}^n(x'_n(t))^2} = \sqrt{x_1'(t)^2+x_2'(t)^2+\ldots+x_n'(t)}
+	\end{gather*}
+	
+	\begin{large}
+	Integrais de Linha de Campos Vetoriais	
+	\end{large}		
+	\begin{gather*}
+	U\subseteq\mathbb{R}^3 \text{aberto} \\
+	X:U\to \mathbb{R}^3 \text{campo vetorial em $U$} \\
+	(x,y)\in U \mapsto X(x,y)= (P(x,y,z),Q(x,y,z),R(x,y,z))\\
+	\vspace{12pt}\\
+	\gamma:[a,b] \to U \text{curva parametrizada}\\
+	t \to (x(t),y(t),z(t)) \\
+	\vspace{24pt}\\
+	\displaystyle\int_\gamma Xd\vec{r}=\displaystyle\int_a^b\langle X(\gamma(t)), \gamma'(t) \rangle dt = \displaystyle\int_a^b(P\cdot x'(t) + Q\cdot y'(t) + R\cdot z'(t)) dt
+	\end{gather*}
+	
+	\null\hspace{48pt}Obs.: $\langle v,w \rangle = \|v\|\|w\|\cos\theta$
+	
+	\begin{center}
+	\fbox{
+\begin{minipage}{\dimexpr\textwidth-50\fboxsep-2\fboxrule\relax}
+Campos gradientes(ou conservativos):
+\begin{gather*}
+	U\subseteq\mathbb{R}^n \text{aberto, } f:U\to\mathbb{R}\\
+\end{gather*}
+Caso:
+\begin{gather*}
+	X(x_1,\ldots,x_n)=\nabla f(x_1,\ldots,x_n)=\left(\dfrac{\partial f}{\partial x_1}(x_1,\ldots,x_n),\ldots,\dfrac{\partial f}{\partial x_n}(x_1,\ldots,x_n)\right)\\
+\end{gather*}
+$X$ é conservativo.\\
+Obs.:
+\begin{gather*}
+\forall v \in\mathbb{R}^n \setminus \{0\}:\\
+\dfrac{\partial f}{\partial v}(x) = \langle\nabla f(x), v\rangle
+\end{gather*}
+\end{minipage}
+}\end{center}
+
+\null\hspace{48pt}Assim, se:
+\begin{gather*}
+X=\nabla f \, , \, \gamma:[a,b]\to\mathbb{R}^n/
+\begin{cases}
+\gamma(a)=A \\
+\gamma(b)=B
+\end{cases}\\
+\displaystyle\int_\gamma \nabla fd\vec{r}=f(B)-f(A)
+\end{gather*}
+ 
+\begin{center}
+\fbox{
+\begin{minipage}{\dimexpr\textwidth-50\fboxsep-2\fboxrule\relax}
+Em resumo, as seguintes afirmações são equivalentes:
+\begin{enumerate}
+\item $X$ é um campo gradiente: $\exists f:U \to \mathbb{R}/X=\nabla f$;
+\item A integral de $X$ ao longo de caminhos fechados depende apenas do ponto inicial e final;
+\item $\displaystyle\oint_\gamma X d\vec{r} = 0$ para qualquer curva fechada $\gamma$
+\end{enumerate}
+\end{minipage}
+}\end{center}
+
+\begin{center}
+\fbox{
+\begin{minipage}{\dimexpr\textwidth-50\fboxsep-2\fboxrule\relax}
+
+Fórmula de Green:
+\begin{gather*}
+U \subset \mathbb{R}^3\text{ aberto limitado, com fronteira $\partial U$} \\
+\partial U \text{ é uma curva fechada orientada positivamente}\\
+X=(P,Q)\text{ campo de vetores de classe $C^1$ em U e $\partial U$}\\
+\displaystyle\oint_{\partial U} X d\vec{r} = -\displaystyle\iint_U\underbrace{\left(\dfrac{\partial P}{\partial y} - \dfrac{\partial Q}{\partial x}\right)}_{\rotg X} dA
+\end{gather*}
+\end{minipage}
+}\end{center}
+
+	\begin{large}
+	Dois operadores diferenciais:
+	\end{large}
+	\begin{center}
+	\begin{align*}
+	\text{Divergência:}&
+	\begin{cases}
+	\divg X:U\to\mathbb{R}\hspace{6pt} / \\
+	\divg X(x,y) = \dfrac{\partial P}{\partial x}(x,y) + \dfrac{\partial Q}{\partial y}(x,y)
+	\end{cases} \\
+	\text{Rotacional:}&
+	\begin{cases}
+	\rotg X:U\to\mathbb{R}\hspace{6pt} / \\
+	\rotg X = \dfrac{\partial Q}{\partial x}(x,y) - \dfrac{\partial P}{\partial y}(x,y)
+	\end{cases}
+	\end{align*}
+	\end{center}
+	
+\begin{large}
+Integrais de Linha de Campos Vetoriais em $\mathbb{R}^2$
+\end{large}\\
+\begin{gather*}
+U\subseteq\mathbb{R}^2 \text{	aberto} \\
+X = (P,Q) \text{	campo vetorial em $U$} \\
+(x,y)\in U \mapsto X(x,y) = (P(x,y),Q(x,y))
+\end{gather*}	
+
+\begin{center}
+\fbox{
+\begin{minipage}{\dimexpr\textwidth-50\fboxsep-2\fboxrule\relax}
+Fórmula de Green:
+\begin{gather*}
+U \subset \mathbb{R}^2\text{ aberto limitado, com fronteira $\partial U$} \\
+\partial U \text{ é uma união finita de curvas fechadas orientadas positivamentes}\\
+X=(P,Q)\text{ campo de vetores de classe $C^1$ em U e $\partial U$}\\
+\displaystyle\oint_{\partial U} X d\vec{r} = -\displaystyle\iint_U\underbrace{\left(\dfrac{\partial P}{\partial y} - \dfrac{\partial Q}{\partial x}\right)}_{\rotg X} dA
+\end{gather*}
+\end{minipage}
+}\end{center}
+
+\null\hspace{48pt}Obs.: Se $X$ é um campo gradiente, então $\displaystyle\oint_\gamma X d\vec{r}=0$ para qualquer curva fechada $\gamma$\\	
+
+
+\begin{center}		
+		\hrulefill \vspace{12pt} \\	
+		\begin{Large}
+			Superfícies em $\mathbb{R}^3$
+		\end{Large}
+	\end{center}
+
+\begin{large}
+	Tipos de superfícies:
+\end{large}
+\begin{enumerate}
+\item Gráfico de funções reais de duas variáveis:
+\begin{gather*}
+U \subseteq \mathbb{R}^2 \text{, } f:U\to\mathbb{R} \\
+\{ (x,y,z) \in \mathbb{R}^3: (x,y) \in U \text{; } z \in f(x,y) \}
+\end{gather*}
+\item Superfícies de nível:
+\begin{gather*}
+V \subseteq \mathbb{R}^3 \text{, } f:V\to\mathbb{R}\text{, } c \in \mathbb{R} \\
+\{ (x,y,z) \in V: f(x,y,z)=c \}
+\end{gather*}
+\item Superfícies de revolução
+\end{enumerate}
+
+\begin{large}
+	Superfícies parametrizadas: $U \subseteq \mathbb{R}^n$ aberto
+\end{large}
+\begin{gather*}
+\Phi :U\to\mathbb{R}^3 \text{ de classe } C^1 \text{, injetora e tal que } D\Phi(u,v) \text{ que também é injetora} \\ \Phi(u,v)=(x(u,v),y(u,v),z(u,v))\\
+\Im(\Phi) = S \text{ que é uma suérfície}\\
+D\Phi(u,v)=\left( \dfrac{\partial \Phi}{\partial u}, \dfrac{\partial \Phi}{\partial v}, \hat{i}+\hat{j}+\hat{k}\right) = \begin{pmatrix}
+\hat{i} & \hat{j} & \hat{k} \\
+x_u & y_u & z_u \\
+y_v & y_v & z_v
+\end{pmatrix}
+\end{gather*}
+\null\hspace{48pt}$C$ plano tangente à superfície parametrizada por $\Phi$ é gerado pelos vetores $\dfrac{\partial \Phi}{\partial u}$ e $\dfrac{\partial \Phi}{\partial v}$\\
+\null\hspace{48pt}Um vetor normal é dado então pelo produto vetorial de $\dfrac{\partial \Phi}{\partial u}$ e $\dfrac{\partial \Phi}{\partial v}$:
+
+\begin{gather*}
+\text{
+\begin{minipage}{68pt}
+Vetor unitário \\ e ortogonal\\ à superfície
+\end{minipage}}\hspace{10pt}\longrightarrow \hspace{10pt}
+\zeta (u,v) = \dfrac{\dfrac{\partial \Phi}{\partial u} \times \dfrac{\partial \Phi}{\partial v}}{\left\lVert \dfrac{\partial \Phi}{\partial u} \times \dfrac{\partial \Phi}{\partial v}\right\rVert}
+\end{gather*}
+
+\null\hspace{48pt}A área da superfície é dada por:
+\begin{gather*}
+A(s)=\displaystyle\iint_U \left\lVert \dfrac{\partial \Phi}{\partial u} \times \dfrac{\partial \Phi}{\partial v}\right\rVert \underbrace{dA}_{dudv}
+\end{gather*}
+
+\begin{large}
+Integrais em superfícies em $\mathbb{R}^3$
+\end{large}
+\begin{gather*}
+U \subseteq \mathbb{R}^2 \\
+\Phi(u,v) :U\to \mathbb{R}^3 \\
+f(x,y):\mathbb{R}^2\to \mathbb{R}\\
+\displaystyle\iint_S fdS = \displaystyle\iint_U f(\Phi (u,v))\left\lVert \dfrac{\partial \Phi}{\partial u}(u,v) \times \dfrac{\partial \Phi}{\partial v}(u,v)\right\rVert \underbrace{dA}_{dudv}
+\end{gather*}
+
+\begin{large}
+Integrais de campos de vetores em $\underbrace{\text{superfícies orientáveis}}_{\text{(admite um campo normal unitário)}}$
+\end{large}
+
+\begin{gather*}\text{
+Seja $S$ superfície orientável com campo normal $\zeta$ e $X$ um campo de vetores em $\mathbb{R}^3$} \\
+\text{O fluxo de $X$ através de $S$ é dado por}: \\
+\displaystyle\iint_S\langle X,\zeta \rangle dS = \displaystyle\iint_U \langle X(\Phi(u,v), \pm \left\lVert \dfrac{\partial \Phi}{\partial u}(u,v) \times \dfrac{\partial \Phi}{\partial v}(u,v)\right\rVert \rangle \underbrace{dA}_{dudv}
+\end{gather*}
+
+\begin{large}
+Teorema de Gauss
+\end{large}\vspace{12pt}\\
+\null\hspace{48pt} \begin{minipage}{\dimexpr\textwidth-30\fboxsep-2\fboxrule\relax}
+Seja $\Omega \subset \mathbb{R}^3$ aberto limitado cuja fronteira $\partial\Omega$ é uma superfície parametrizada orientável orientada com a normal exterior a $\Omega$. Seja $X$ um campo de vetores de classe $C^1$ em $\Omega \cup \partial\Omega$:
+\end{minipage}
+
+\begin{gather*}
+\displaystyle\oiint_{\partial\Omega} \langle X, \zeta \rangle dS = \displaystyle\iiint_{\Omega} \divg X dV
+\end{gather*}
+
+\null\hspace{48pt}Obs.: $\begin{cases} U \subseteq \mathbb{R}^3 \text{ aberto} \\ X=(P,Q,R) \text{ campo em } U\\
+f:U\to\mathbb{R}\\ \divg X = \dfrac{\partial P}{\partial x} +\dfrac{\partial Q}{\partial y}+\dfrac{\partial R}{\partial z}\end{cases}$
+
+\begin{center}
+\fbox{
+\begin{minipage}{\dimexpr\textwidth-50\fboxsep-2\fboxrule\relax}
+Observações
+\begin{enumerate}
+\item Se $X$ é um campo gradiente, então: $\rotg X \equiv 0$
+\item Se $X$ é um campo gradiente qualquer, então: $\divg\rotg X =0$
+\end{enumerate}
+\end{minipage}
+}\end{center}
+
+\begin{large}
+Teorema de Stokes
+\end{large}\vspace{12pt}\\
+\null\hspace{48pt} \begin{minipage}{\dimexpr\textwidth-30\fboxsep-2\fboxrule\relax}
+Seja $S \subset \mathbb{R}^3$ superfície orientável, orientada pelo vetor normal $\zeta$, cuja fronteira $\partial S$ é uma curva de classe $C^1$ com a orientação induzida. \\
+E $X$ campo de vetores de classe $C^1$ em um aberto contendo $S \cup \partial S$.
+\end{minipage}
+\begin{gather*}
+\displaystyle\oint_{\partial S} X d\vec{r} = \displaystyle\iint_S \langle \rotg X, \zeta \rangle dS
+\end{gather*}

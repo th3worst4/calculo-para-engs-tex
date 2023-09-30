@@ -1,0 +1,66 @@
+		\begin{center}
+		\begin{Huge}
+			Critérios de convergência para séries
+		\end{Huge}\\		
+		\hrulefill
+	\end{center}			
+
+	\textbf{Critério da Divergência} \\
+Seja $\summation_n a_n$ uma série. Se $\limit_{n \to \infty} a_n \ne 0$, então $\summation_n a_n$ é divergente. \newspaceline
+
+\textbf{Critério da Integral}\\
+Seja $\summation_n a_n$ uma série e seja $m$ um natural tal que $a_n\ge0$ para todo $n\ge m$. Suponha uma $f(x)$ que no intervalo $\left[m,+\infty\right)$ satisfaz as seguintes condições:
+\begin{itemize}[noitemsep, nolistsep]
+	\item É contínua;
+	\item descrescente;
+	\item não negativa;
+	\item e tal que $f(n)=a_n$ para todo natural $n\ge m$.
+\end{itemize}
+Temos que a série $\summation_n a_n$ é convergente se e somente se a integral imprópria $\integral_m^{+\infty}f(x)dx$ é convergente. \newspaceline
+
+\textbf{Critério da comparação direta}\\
+Sejam $\summation_n a_n$ e $\summation_n b_n$ duas séries e seja $m$ um número natural tal $b_n\ge a_n \ge 0$ para todo $n\ge m$, temos:
+\begin{enumerate}[noitemsep, nolistsep]
+	\item  Se $\summation_n b_n$ é convergente, então a série $\summation_n a_n$ é convergente.
+	\item Se $\summation_n a_n$ é divergente, então a série $\summation_n b_n$ é divergente.
+\end{enumerate}
+\vspace{5pt}
+
+\textbf{Critério da comparação no limite}\\
+Sejam $\summation_n a_n$ e $\summation_n b_n$ duas séries e seja $m$ um número natural tal $a_n\ge 0$ e $ b_n \ge 0$ para todo $n\ge m$, suponha o seguinte limite:
+$$L = \limit_{n\to\infty}\dfrac{a_n}{b_n}$$
+exista, então.
+\begin{enumerate}[noitemsep, nolistsep]
+	\item Se $L\ne 0$ então $\summation_n a_n$ converge se e somente se $\summation_n b_n$ converge.
+	\item Se $L=0$ e $\summation_n b_n$ converge, então $\summation_n a_n$ converge.
+\end{enumerate}
+
+\textbf{Critério da série alternada}\\
+Seja $\summation_n a_n$ uma série alternada com $\left| a_n \right| = b_n$, a série é convergente se satisfaz os seguintes critérios:
+\begin{enumerate}[noitemsep, nolistsep]
+	\item $b_{n+1} \le b_n$ para todo $n\ge m$;
+	\item e $\limit_{n \to \infty} b_n = 0$
+\end{enumerate}
+para algum $m \in \mathbb{N}$.
+\newspaceline
+
+\textbf{Convergência absoluta}\\
+Se a série $\summation_{n=1}^{\infty} \left| a_n \right|$ é convergente, então $\summation_{n=1}^{\infty} a_n$ é convergente. \\
+Obs.: a volta não é garantida.
+\newspaceline
+
+\textbf{Critério da razão}\\
+Seja $\summation_{n=1}^{\infty} a_n$ uma série com todos os termos não nulos e seja $r=\limit_{n \to\infty} \dfrac{\left| a_{n+1} \right|}{\left| a_n \right|}$. Então:
+\begin{enumerate}[noitemsep, nolistsep]
+	\item Se $r<1$, a série $\summation_{n=1}^{\infty} a_n$ converge absolutamente.
+	\item Se $r>1$ (incluindo $r\to+\infty$), a série $\summation_{n=1}^\infty a_n$ diverge.
+\end{enumerate}
+\vspace{5pt}
+
+\textbf{Critério da raiz}\\
+Sejam $\summation_{n=1}^\infty a_n$ uma série e $r=\limit_{n \to\infty}\sqrt[n]{\left| a_n \right|}$. Então:
+\begin{enumerate}[noitemsep, nolistsep]
+	\item Se $r<1$, a série $\summation_{n=1}^\infty a_n$ converge absolutamente.
+	\item Se $r>1$ (incluindo $r\to+\infty$), a série $\summation_{n=1}^\infty a_n$ diverge.
+\end{enumerate}
+
