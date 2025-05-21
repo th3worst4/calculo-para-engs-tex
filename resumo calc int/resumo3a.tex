@@ -49,8 +49,10 @@
 	\end{bmatrix}=\det\begin{bmatrix}
 	\cos\theta & -r\sin\theta \\
 	\sin\theta & r\cos\theta
-	\end{bmatrix} = r
-	\end{gather*}
+	\end{bmatrix} = r \\
+    \nabla h(r, \theta) = \dfrac{\partial h}{\partial r} \mathbf{e}_r + \dfrac{1}{r}\dfrac{\partial h}{\partial \theta}\mathbf{e}_\theta\\
+    \nabla^2 h = \Delta h = \dfrac{\partial^2 h}{\partial r^2} + \dfrac{1}{r}\dfrac{\partial h}{\partial r} + \dfrac{1}{r^2}\dfrac{\partial^2 h}{\partial \theta^2}
+    \end{gather*}
 	
 	\begin{large}
 	Definição de Integral Tripla e Teorema de Fubini:
@@ -75,7 +77,9 @@
 	y=\rho\sin\theta\cos\phi	
 	\end{cases}\hspace{12pt}
 	z=\rho\cos\phi \hspace{12pt} \rho=\sqrt{x^2+y^2+z^2}\\
-	\det Dh(\rho,\theta\phi)= \rho^2\sin\phi
+	\det Dh(\rho,\theta, \phi)= \rho^2\sin\phi \\
+    \nabla h(\rho, \theta, \phi) = \dfrac{\partial h}{\partial \rho} \mathbf{e}_\rho + \dfrac{1}{\rho}\dfrac{\partial h}{\partial \theta}\mathbf{e}_\theta + \dfrac{1}{\rho\sin\theta}\dfrac{\partial h}{\partial \phi}\mathbf{e}_\phi \\
+\nabla^2 h = \Delta h = \dfrac{1}{\rho^2}\dfrac{\partial}{\partial \rho}\left(r^2\dfrac{\partial h}{\partial \rho}\right) + \dfrac{1}{\rho^2 \sin\theta}\dfrac{\partial}{\partial\theta}\left(\sin\theta \dfrac{\partial h}{\partial \theta} \right) + \dfrac{1}{\rho^2 \sin^2\theta}\dfrac{\partial^2 h}{\partial \phi^2}
 	\end{gather*}
 	
 	
@@ -90,10 +94,11 @@
 	y=r\sin\theta	
 	\end{cases}\hspace{12pt}
 	r=\sqrt{x^2+y^2}\\
-	\det Dh(r,\theta,z) = r
+	\det Dh(r,\theta,z) = r \\
+    \nabla h(r, \theta, z) = \dfrac{\partial h}{\partial r} \mathbf{e}_r + \dfrac{1}{r}\dfrac{\partial h}{\partial \theta}\mathbf{e}_\theta + \dfrac{\partial h}{\partial z}\mathbf{e}_z \\
+    \nabla^2 h = \Delta h = \dfrac{1}{r}\dfrac{\partial}{\partial r}\left( r \dfrac{\partial h}{\partial r}\right) + \dfrac{1}{r^2}\dfrac{\partial^2 h}{\partial \theta^2} + \dfrac{\partial^2 h}{\partial z^2}
 	\end{gather*}
-	
-	\newpage
+	\hline
 	\begin{center}		
 		\begin{Large}
 			Curvas Parametrizadas(em $\mathbb{R}^2$ ou $\mathbb{R}^3$)
@@ -192,12 +197,12 @@ X=(P,Q)\text{ campo de vetores de classe $C^1$ em U e $\partial U$}\\
 	\text{Divergência:}&
 	\begin{cases}
 	\divg X:U\to\mathbb{R}\hspace{6pt} / \\
-	\divg X(x,y) = \dfrac{\partial P}{\partial x}(x,y) + \dfrac{\partial Q}{\partial y}(x,y)
+	\divg X(x,y) \defeq \dfrac{\partial P}{\partial x}(x,y) + \dfrac{\partial Q}{\partial y}(x,y)
 	\end{cases} \\
 	\text{Rotacional:}&
 	\begin{cases}
 	\rotg X:U\to\mathbb{R}\hspace{6pt} / \\
-	\rotg X = \dfrac{\partial Q}{\partial x}(x,y) - \dfrac{\partial P}{\partial y}(x,y)
+	\rotg X \defeq \dfrac{\partial Q}{\partial x}(x,y) - \dfrac{\partial P}{\partial y}(x,y)
 	\end{cases}
 	\end{align*}
 	\end{center}
@@ -226,9 +231,9 @@ X=(P,Q)\text{ campo de vetores de classe $C^1$ em U e $\partial U$}\\
 
 \null\hspace{48pt}Obs.: Se $X$ é um campo gradiente, então $\displaystyle\oint_\gamma X d\vec{r}=0$ para qualquer curva fechada $\gamma$\\	
 
-
+\newpage
 \begin{center}		
-		\hrulefill \vspace{12pt} \\	
+		%\hrulefill \vspace{12pt} \\	
 		\begin{Large}
 			Superfícies em $\mathbb{R}^3$
 		\end{Large}
@@ -256,7 +261,7 @@ V \subseteq \mathbb{R}^3 \text{, } f:V\to\mathbb{R}\text{, } c \in \mathbb{R} \\
 \end{large}
 \begin{gather*}
 \Phi :U\to\mathbb{R}^3 \text{ de classe } C^1 \text{, injetora e tal que } D\Phi(u,v) \text{ que também é injetora} \\ \Phi(u,v)=(x(u,v),y(u,v),z(u,v))\\
-\Im(\Phi) = S \text{ que é uma suérfície}\\
+\Im(\Phi) = S \text{ que é uma superfície}\\
 D\Phi(u,v)=\left( \dfrac{\partial \Phi}{\partial u}, \dfrac{\partial \Phi}{\partial v}, \hat{i}+\hat{j}+\hat{k}\right) = \begin{pmatrix}
 \hat{i} & \hat{j} & \hat{k} \\
 x_u & y_u & z_u \\
